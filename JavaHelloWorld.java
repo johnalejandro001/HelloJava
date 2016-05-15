@@ -1,4 +1,4 @@
-public class JavaJelloWorld
+public class JavaHelloWorld
 {	
 	public static void main (string [] args)
 	{
